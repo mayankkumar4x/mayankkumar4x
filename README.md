@@ -1,4 +1,4 @@
-👋 Hello there! I'm Mayank Kumar
+##👋 Hello there! I'm Mayank Kumar
 
 ### 💼 Professional Summary
 - 🧠 Experienced in Data Structures and Algorithms.
